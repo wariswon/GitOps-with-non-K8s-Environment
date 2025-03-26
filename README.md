@@ -13,9 +13,9 @@ This project implements a **Pull-Based GitOps Workflow** with **automatic rollba
 - **[`Resources/`](./Resources/)** → Stores Terraform configurations for provisioning AWS infrastructure.
 
 ## How to Use
-1️⃣ **Deploy AWS Resources** using Terraform (`Resources/`).  
-2️⃣ **Set Up Auto-Pull Changes** (`Auto-Pull-Changes/`).  
-3️⃣ **Set Up Auto-Revert** (`Auto-Revert/`).  
+1️. **Deploy AWS Resources** using Terraform (`Resources/`).  
+2️. **Set Up Auto-Pull Changes** (`Auto-Pull-Changes/`).  
+3️3 **Set Up Auto-Revert** (`Auto-Revert/`).  
 
 Follow the setup instructions in each folder.  
 
